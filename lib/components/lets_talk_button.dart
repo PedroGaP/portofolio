@@ -10,8 +10,8 @@ class LetsTalkButton extends StatelessWidget {
     return IconButton.filled(
       color: Colors.white,
         style: ButtonStyle(
-          padding: MaterialStateProperty.resolveWith((states) => EdgeInsets.symmetric(horizontal: 16, vertical: 8)),
-          backgroundColor: MaterialStateProperty.resolveWith((states) => Colors.blue)
+          padding: MaterialStateProperty.resolveWith((states) => const EdgeInsets.symmetric(horizontal: 16, vertical: 8)),
+          backgroundColor: MaterialStateProperty.resolveWith((states) => Colors.orange)
         ),
         onPressed: () {},
         icon: Row(
@@ -21,7 +21,7 @@ class LetsTalkButton extends StatelessWidget {
               fontWeight: FontWeight.w800
             )),
             const SizedBox(width: 8,),
-            Icon(Icons.arrow_outward)
+            const Icon(Icons.arrow_outward)
           ],
         ));
   }

@@ -1,6 +1,12 @@
 {
   "home": "Home",
   "about": "About",
+  "about_me": "About Me",
   "portfolio": "Portfolio",
-  "lets_talk": "Let's Talk"
+  "lets_talk": "Let's Talk",
+  "mobile_developer": "A mobile developer from PORTUGAL.",
+  "i_am": "Hello, I am",
+  "me_description": "I'm a passionate Flutter developer with a keen interest in building responsive and beautiful mobile and web applications.",
+  "download_cv": "Download CV",
+  "all_rights_reserved": "© 2024 Pedro Guerra. All rights reserved."
 }

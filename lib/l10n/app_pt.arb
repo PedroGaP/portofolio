@@ -1,6 +1,12 @@
 {
   "home": "Início",
   "about": "Sobre",
+  "about_me": "Sobre Mim",
   "portfolio": "Portofolio",
-  "lets_talk": "Vamos falar"
+  "lets_talk": "Vamos falar",
+  "mobile_developer": "Um desenvolvedor de aplicações mobile de PORTUGAL.",
+  "i_am": "Olá, o meu nome é",
+  "me_description": "Sou um desenvolvedor Flutter apaixonado, com um grande interesse em criar aplicações móveis e web responsivas e bonitas.",
+  "download_cv": "Baixar CV",
+  "all_rights_reserved": "© 2024 Pedro Guerra. Todos os direitos reservados."
 }
